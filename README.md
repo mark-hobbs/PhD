@@ -30,7 +30,7 @@ The model is validated using published experimental data, and the predictive acc
 
 **Chapter 6** examines size effect in quasi-brittle materials. This is the first time that the capability of a peridynamic model to capture size effect has been investigated.
 
-**Chapter 7** examines the predictive accuracy and generality of the model against nine reinforced concrete beams that exhibit a wide range of failure modes. The shear-span-to- depth ratio is systematically varied from 1 to 8 to facilitate a study of different load-transfer mechanisms and failure modes.
+**Chapter 7** examines the predictive accuracy and generality of the model against nine reinforced concrete beams that exhibit a wide range of failure modes. The shear-span-to-depth ratio is systematically varied from 1 to 8 to facilitate a study of different load-transfer mechanisms and failure modes.
 
 **Chapter 8** presents the main conclusions that can be drawn from this thesis and future work is proposed to build upon the findings of this project.
 
