@@ -26,7 +26,7 @@ The model is validated using published experimental data, and the predictive acc
 
 **Chapter 4** describes the development of a three-dimensional bond-based peridynamic code. The implementation details are examined and all choices are explained.
 
-**Chapter 5** examines the modelling of quasi-brittle materials using a three-dimensional bond- based peridynamic model. Existing constitutive laws are examined and compared, and a new non-linear softening law is introduced. Numerical results are compared with experimental data and advanced numerical methods. In addition, it is shown that the application of surface correction factors produces a toughening effect and a correction scheme is proposed that is simple to implement and yields improved results.
+**Chapter 5** examines the modelling of quasi-brittle materials using a three-dimensional bond-based peridynamic model. Existing constitutive laws are examined and compared, and a new non-linear softening law is introduced. Numerical results are compared with experimental data and advanced numerical methods. In addition, it is shown that the application of surface correction factors produces a toughening effect and a correction scheme is proposed that is simple to implement and yields improved results.
 
 **Chapter 6** examines size effect in quasi-brittle materials. This is the first time that the capability of a peridynamic model to capture size effect has been investigated.
 
